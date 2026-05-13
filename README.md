@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQxMm9qYXo4MjlhbG5vbjIwN2UyOTVrNHo2OTRyNW53ZHoxNjVhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQxMm9qYXo4MjlhbG5vbjIwN2UyOTVrNHo2OTRyNW53ZHoxNjVhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
